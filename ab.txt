@@ -1,0 +1,4 @@
+имя - sdfghj
+фамилия - fghjkl
+возраст - 234567
+email - dfghjk
